@@ -138,9 +138,8 @@ Kubernetes cost optimization tooling. Identifies oversized workloads, unused res
 
 <div align="center">
 
-![Rama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramalakshmi0505&show_icons=true&hide_border=true&title_color=1F6F7A&icon_color=1F6F7A&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=false)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramalakshmi0505&layout=compact&hide_border=true&title_color=1F6F7A&text_color=333333&bg_color=ffffff&langs_count=6)
+![Streak](https://streak-stats.demolab.com?user=ramalakshmi0505&hide_border=true&ring=1F6F7A&fire=1F6F7A&currStreakLabel=1F6F7A&dates=666666&sideLabels=333333&sideNums=1F6F7A&currStreakNum=1F6F7A&width=500)
+
 
 </div>
 
@@ -148,9 +147,9 @@ Kubernetes cost optimization tooling. Identifies oversized workloads, unused res
 
 ## 🚧 Currently Building
 
-- **workspace-operator** — Go Kubernetes controller, kubebuilder layout, full reconcile loop
-- **CKA prep** — Certified Kubernetes Administrator exam track
-- **NL job search automation** — n8n pipeline pulling open roles from 60+ IND-recognised sponsor companies
+- **workspace-operator** - Go Kubernetes controller, kubebuilder layout, full reconcile loop
+- **CKA prep** - Certified Kubernetes Administrator exam track
+- **NL job search automation** - n8n pipeline pulling open roles from 60+ IND-recognised sponsor companies
 
 ---
 
