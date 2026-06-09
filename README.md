@@ -25,7 +25,7 @@
 
 ## 👩‍💻 About
 
-I design and automate the foundational layer teams build on: account and environment provisioning, VPC and IAM, security guardrails, cost controls, and the observability that ties it all together — across AWS, Azure, and GCP.
+I design and automate the foundational layer teams build on: account and environment provisioning, VPC and IAM, security guardrails, cost controls, and the observability that ties it all together - across AWS, Azure, and GCP.
 
 Currently running a **multi-region EKS platform across 3 AWS regions** at BMW TechWorks. I build in public: every tool here started as something I needed at work and couldn't find anywhere else.
 
@@ -227,12 +227,26 @@ GitHub Copilot instructions optimised for n8n workflow development. Speeds up bu
 
 ![Streak](https://streak-stats.demolab.com?user=ramalakshmi0505&hide_border=true&ring=1F6F7A&fire=1F6F7A&currStreakLabel=1F6F7A&dates=666666&sideLabels=333333&sideNums=1F6F7A&currStreakNum=1F6F7A&width=500)
 
+<<<<<<< HEAD
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramalakshmi0505&layout=compact&hide_border=true&title_color=1F6F7A&text_color=333333&bg_color=ffffff&langs_count=8&card_width=500)
+=======
+>>>>>>> 40539f55aa5871eaa0fba0e8ab39f0612af6b569
 
 </div>
 
 ---
 
+<<<<<<< HEAD
+=======
+## 🚧 Currently Building
+
+- **workspace-operator** - Go Kubernetes controller, kubebuilder layout, full reconcile loop
+- **CKA prep** - Certified Kubernetes Administrator exam track
+- **NL job search automation** - n8n pipeline pulling open roles from 60+ IND-recognised sponsor companies
+
+---
+
+>>>>>>> 40539f55aa5871eaa0fba0e8ab39f0612af6b569
 ## 🎓 Certifications
 
 | Certification | Issuer | Level |
