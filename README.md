@@ -1,7 +1,6 @@
 <div align="center">
-
-# Ramalakshmi Mani (Rama)
-### Senior Cloud Platform Engineer
+  
+![header](https://capsule-render.vercel.app/api?type=rect&color=1F6F7A&height=200&text=Ramalakshmi%20Mani%20(Rama)&fontColor=ffffff&fontSize=42&desc=Senior%20Cloud%20Platform%20Engineer&descSize=20&descAlignY=78)
 
 *Building cloud platforms that teams deploy on without raising a ticket*
 
@@ -10,6 +9,7 @@
 [![Visa](https://img.shields.io/badge/Kennismigrant_%26_EU_Blue_Card-Eligible-1F6F7A?style=for-the-badge)](https://linkedin.com/in/ramalakshmim)
 
 </div>
+
 
 ---
 
