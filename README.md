@@ -73,6 +73,18 @@ Currently running a **multi-region EKS platform across 3 AWS regions** at BMW Te
 <tr>
 <td width="50%" valign="top">
 
+### [eu-sovereign-idp](https://github.com/ramalakshmi0505/eu-sovereign-idp)
+Self-service developer platform on EKS where the golden path enforces EU data residency, GDPR classification, and cost guardrails at admission. A Go operator provisions residency-stamped namespaces, Kyverno denies non-EU regions and storage, ArgoCD flags drift, Karpenter keeps nodes EU-only and right-sized.
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) 
+![Kyverno](https://img.shields.io/badge/Kyverno-1F6F7A?style=flat-square)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### [local-rag](https://github.com/ramalakshmi0505/local-rag)
 Retrieval-augmented generation built from scratch and running fully local. Point it at your docs; it chunks them, embeds with Ollama, stores vectors in ChromaDB, and answers questions using only what it retrieved, with sources cited. About 300 lines of Python, no framework. Built after the LinkedIn Learning Local AI course.
 
