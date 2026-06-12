@@ -25,7 +25,7 @@
 
 ## 👩‍💻 About
 
-I design and automate the foundational layer teams build on: account and environment provisioning, VPC and IAM, security guardrails, cost controls, and the observability that ties it all together — across AWS, Azure, and GCP.
+I design and automate the foundational layer teams build on: account and environment provisioning, VPC and IAM, security guardrails, cost controls, and the observability that ties it all together across AWS, Azure, and GCP.
 
 Currently running a **multi-region EKS platform across 3 AWS regions** at BMW TechWorks. I build in public: every tool here started as something I needed at work and couldn't find anywhere else.
 
