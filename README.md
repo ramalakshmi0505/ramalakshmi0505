@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ramalakshmi Mani (Rama)
-### Senior Cloud & Platform Engineer
+### Senior Cloud Platform Engineer
 
 *Building cloud platforms that teams deploy on without raising a ticket*
 
