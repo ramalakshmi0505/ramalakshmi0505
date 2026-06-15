@@ -5,8 +5,8 @@
 *Building cloud platforms that teams deploy on without raising a ticket*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramalakshmim-1F6F7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramalakshmim)
-[![Location](https://img.shields.io/badge/📍_Relocating_to-Netherlands_%26_Germany-FF6B35?style=for-the-badge)](https://linkedin.com/in/ramalakshmim)
-[![Visa](https://img.shields.io/badge/Kennismigrant_%26_EU_Blue_Card-Eligible-1F6F7A?style=for-the-badge)](https://linkedin.com/in/ramalakshmim)
+[![GitHub](https://img.shields.io/badge/GitHub-ramalakshmi0505-1F6F7A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramalakshmi0505)
+[![AWS](https://img.shields.io/badge/AWS-Certified_DevOps_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://linkedin.com/in/ramalakshmim)
 
 </div>
 
