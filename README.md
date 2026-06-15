@@ -73,6 +73,16 @@ Currently running a **multi-region EKS platform across 3 AWS regions** at BMW Te
 <tr>
 <td width="50%" valign="top">
 
+### [terraform-aws-modules](https://github.com/ramalakshmi0505/terraform-aws-modules)
+Reusable, production-ready Terraform modules for AWS. Every project ends up rewriting the same VPC, EKS, RDS and S3 configs — this puts them in one place, versioned and validated. CI runs terraform validate + TFLint on every PR.
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### [eu-sovereign-idp](https://github.com/ramalakshmi0505/eu-sovereign-idp)
 Self-service developer platform on EKS where the golden path enforces EU data residency, GDPR classification, and cost guardrails at admission. A Go operator provisions residency-stamped namespaces, Kyverno denies non-EU regions and storage, ArgoCD flags drift, Karpenter keeps nodes EU-only and right-sized.
 
@@ -83,6 +93,8 @@ Self-service developer platform on EKS where the golden path enforces EU data re
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [local-rag](https://github.com/ramalakshmi0505/local-rag)
@@ -96,7 +108,6 @@ Retrieval-augmented generation built from scratch and running fully local. Point
 <td width="50%" valign="top">
 
 ### [aws-self-service-catalog](https://github.com/ramalakshmi0505/aws-self-service-catalog)
-<!-- TODO: confirm this one-liner. Placeholder based on the repo name. -->
 Self-service catalog of approved, pre-guardrailed AWS environments that teams can provision on demand without raising a ticket.
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
