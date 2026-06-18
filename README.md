@@ -213,15 +213,20 @@ Automated AWS cost monitoring with n8n on EKS. Detects spend anomalies and route
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contributions
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=ramalakshmi0505&hide_border=true&ring=1F6F7A&fire=1F6F7A&currStreakLabel=1F6F7A&dates=666666&sideLabels=333333&sideNums=1F6F7A&currStreakNum=1F6F7A&width=500)
+## 📈 Contributions
+
+<div align="center">
+
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-109-1F6F7A?style=for-the-badge&logo=github&logoColor=white)
+![Public Repositories](https://img.shields.io/badge/Public_Repositories-17-1F6F7A?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
----
+</div>
 
 ## 🎓 Certifications
 
