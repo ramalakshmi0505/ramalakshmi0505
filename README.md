@@ -69,33 +69,27 @@ Currently running a **multi-region EKS platform across 3 AWS regions** at BMW Te
 
 *Newest first*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [n8n-Platform-Configuration-Guide](https://github.com/ramalakshmi0505/n8n-Platform-Configuration-Guide)
+A checklist for taking n8n from a teammate's personal workflow to a governed production platform. Step-by-step config for source control, SSO, external secrets, RBAC, log streaming, and queue-mode scaling, with n8n docs references for each.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### [terraform-aws-modules](https://github.com/ramalakshmi0505/terraform-aws-modules)
-Reusable, production-ready Terraform modules for AWS. Every project ends up rewriting the same VPC, EKS, RDS and S3 configs — this puts them in one place, versioned and validated. CI runs terraform validate + TFLint on every PR.
+Reusable, production-ready Terraform modules for AWS. Every project ends up rewriting the same VPC, EKS, RDS and S3 configs, this puts them in one place, versioned and validated. CI runs terraform validate + TFLint on every PR.
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
 ### [eu-sovereign-idp](https://github.com/ramalakshmi0505/eu-sovereign-idp)
 Self-service developer platform on EKS where the golden path enforces EU data residency, GDPR classification, and cost guardrails at admission. A Go operator provisions residency-stamped namespaces, Kyverno denies non-EU regions and storage, ArgoCD flags drift, Karpenter keeps nodes EU-only and right-sized.
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kyverno](https://img.shields.io/badge/Kyverno-1F6F7A?style=flat-square)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### [local-rag](https://github.com/ramalakshmi0505/local-rag)
 Retrieval-augmented generation built from scratch and running fully local. Point it at your docs; it chunks them, embeds with Ollama, stores vectors in ChromaDB, and answers questions using only what it retrieved, with sources cited. About 300 lines of Python, no framework. Built after the LinkedIn Learning Local AI course.
@@ -104,19 +98,11 @@ Retrieval-augmented generation built from scratch and running fully local. Point
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-gray?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
-
 ### [aws-self-service-catalog](https://github.com/ramalakshmi0505/aws-self-service-catalog)
 Self-service catalog of approved, pre-guardrailed AWS environments that teams can provision on demand without raising a ticket.
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### [ats-resolver](https://github.com/ramalakshmi0505/ats-resolver)
 Give it a list of company names, it probes six public ATS APIs and returns the exact endpoint to pull their open roles. Feeds the job-feed-builder.
@@ -124,19 +110,11 @@ Give it a list of company names, it probes six public ATS APIs and returns the e
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
 ### [job-feed-builder](https://github.com/ramalakshmi0505/job-feed-builder)
 n8n workflow that pulls open roles from company career pages and drops the matches into a sheet daily. Built to automate a 60+ company NL job search.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### [terraform-plan-on-pr](https://github.com/ramalakshmi0505/terraform-plan-on-pr)
 GitHub Actions workflow that runs Terraform plan on every pull request and posts the diff as a comment. Drop-in for any Terraform repo.
@@ -144,19 +122,11 @@ GitHub Actions workflow that runs Terraform plan on every pull request and posts
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
 ### [aws-automated-provisioning](https://github.com/ramalakshmi0505/aws-automated-provisioning)
 Multi-environment Terraform and CloudFormation reference architecture with full CI/CD. Modelled on real Vodafone provisioning work.
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### [istio-ambient-demo](https://github.com/ramalakshmi0505/istio-ambient-demo)
 Hands-on demo of Istio ambient mesh mode on EKS. Zero-trust mTLS without sidecars. Built after completing the Kubernetes with Istio course.
@@ -165,9 +135,6 @@ Hands-on demo of Istio ambient mesh mode on EKS. Zero-trust mTLS without sidecar
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
 ### [rag-infra-bot](https://github.com/ramalakshmi0505/rag-infra-bot)
 RAG infrastructure knowledge bot using PostgreSQL and pgvector. Ask it questions about your infrastructure; it retrieves from a vector store of your own docs.
 
@@ -175,19 +142,11 @@ RAG infrastructure knowledge bot using PostgreSQL and pgvector. Ask it questions
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-gray?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [azure-webapp-terraform](https://github.com/ramalakshmi0505/azure-webapp-terraform)
 Azure Web Application provisioned entirely with Terraform. Demonstrates multi-cloud IaC patterns across Azure App Service, networking, and IAM.
 
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
 
 ### [gitops-drift-detector](https://github.com/ramalakshmi0505/gitops-drift-detector)
 Scans ArgoCD apps for config drift and raises alerts before the gap between desired and actual state causes an incident.
@@ -195,19 +154,11 @@ Scans ArgoCD apps for config drift and raises alerts before the gap between desi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [k8s-cost-optimizer](https://github.com/ramalakshmi0505/k8s-cost-optimizer)
 Identifies oversized workloads, unused resources, and right-sizing opportunities across namespaces. Built from real cost-reduction work at DXC (30% saving replicated across 10+ BUs).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
 
 ### [n8n-recruitment-automation](https://github.com/ramalakshmi0505/n8n-recruitment-automation)
 AI-powered CV screening and candidate pipeline automation with working n8n JSON workflow. End-to-end from intake to shortlist.
@@ -215,19 +166,11 @@ AI-powered CV screening and candidate pipeline automation with working n8n JSON 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![AI](https://img.shields.io/badge/AI--powered-1F6F7A?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [n8n-copilot-instructions](https://github.com/ramalakshmi0505/n8n-copilot-instructions)
 GitHub Copilot instructions optimised for n8n workflow development. Speeds up building automation nodes with AI assistance.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-2088FF?style=flat-square&logo=github&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
 
 ### [n8n-aws-cost-alerts](https://github.com/ramalakshmi0505/n8n-aws-cost-alerts)
 Automated AWS cost monitoring with n8n on EKS. Detects spend anomalies and routes alerts to the right team. No manual dashboard checking.
@@ -235,10 +178,6 @@ Automated AWS cost monitoring with n8n on EKS. Detects spend anomalies and route
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
