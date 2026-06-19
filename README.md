@@ -245,6 +245,6 @@ Automated AWS cost monitoring with n8n on EKS. Detects spend anomalies and route
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-1F6F7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramalakshmim)
 [![Email](https://img.shields.io/badge/ramalakshmi0505@outlook.com-1F6F7A?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ramalakshmi0505@outlook.com)
 
-*Open to Senior Cloud, Platform & DevOps roles in the Netherlands and Germany*
+
 
 </div>
